@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hal29" size="10.000000 7.093822" />
+    <ImageTarget name="hal28" size="10.000000 7.093822" />
+    <ImageTarget name="hal27" size="10.000000 7.093822" />
+    <ImageTarget name="hal26" size="10.000000 7.093822" />
+    <ImageTarget name="hal25" size="10.000000 7.093822" />
+    <ImageTarget name="hal24" size="10.000000 7.093822" />
+    <ImageTarget name="hal23" size="10.000000 7.093822" />
+    <ImageTarget name="hal22" size="10.000000 7.093822" />
+    <ImageTarget name="hal21" size="10.000000 7.093822" />
+    <ImageTarget name="hal20" size="10.000000 7.093822" />
+    <ImageTarget name="hal17" size="10.000000 7.093822" />
+    <ImageTarget name="hal16" size="10.000000 7.093822" />
+    <ImageTarget name="hal15" size="10.000000 7.093822" />
+    <ImageTarget name="hal14" size="10.000000 7.093822" />
+    <ImageTarget name="hal13" size="10.000000 7.093822" />
+    <ImageTarget name="hal12" size="10.000000 7.093822" />
+    <ImageTarget name="hal11" size="10.000000 7.093822" />
+    <ImageTarget name="hal10" size="10.000000 7.093822" />
+    <ImageTarget name="hal9" size="10.000000 7.093822" />
+    <ImageTarget name="hal8" size="10.000000 7.093822" />
+    <ImageTarget name="hal7" size="10.000000 7.093822" />
+    <ImageTarget name="hal6" size="10.000000 7.093822" />
+    <ImageTarget name="hal5" size="10.000000 7.093822" />
+    <ImageTarget name="hal4" size="10.000000 7.093822" />
+    <ImageTarget name="hal3" size="10.000000 7.093822" />
+    <ImageTarget name="hal2" size="10.000000 7.093822" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARBIDEN/Splash.unity
+    guid: 4df88e4b3ae704644b0022b45c414a8c
+  - enabled: 1
+    path: Assets/Scenes/ARBIDEN/MainMenu.unity
+    guid: f797b23f3ca97794d972baa469699a7b
+  - enabled: 1
+    path: Assets/Scenes/ARBIDEN/ScanAR.unity
+    guid: d8d0af0e6a60c9f4d9226f818c1d947a
+  m_configObjects: {}
